@@ -1,5 +1,5 @@
 # keyLogger
-<b>!! THIS IS FOR EDICATIONAL PURPOSES ONLY !!</b>
+<b>!! THIS IS FOR EDUCATIONAL PURPOSES ONLY !!</b>
 <br>
 <b>NOTE</b>: This is only tested on windows
 <br>
