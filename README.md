@@ -12,7 +12,7 @@ step2 - Create virtual environment: `python -m venv venv`
 <br>
 step3 - Avtivate virtual environment: `source venv/bin/activate`
 <br>
-step4 - Install packages in requitements.txt: `pip install -r requirements.txt`
+step4 - Install packages in requirements.txt: `pip install -r requirements.txt`
 
 # Create exe
 Complete all steps in 'Python Environment Setup'
