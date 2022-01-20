@@ -1,7 +1,9 @@
 # keyLogger
+<b>!! THIS IS FOR EDICATIONAL PURPOSES ONLY !!</b>
+<br>
 <b>NOTE</b>: This is only tested on windows
 <br>
-<br>
+
 
 # Python Environment Setup
 step1 - Clone the repository
